@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Login Listodo</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="buttonIngresar">Ingresar</string>
+    //menu
+    <string name="buttonLyFT">Fichas Tecnicas</string>
+    <string name="buttonLyCalculadora">Calculadora</string>
+    <string name="buttonLyImagenes">Imagenes</string>
+
+    //calculadora
+    <string name="volvermenu">Volver</string>
+    <string name="num1">Ancho</string>
+    <string name="num2">Alto</string>
+    <string name="buttonCalcular">Calcular</string>
+    <string name="total">Total</string>
+
+
+</resources>
+
+
+
